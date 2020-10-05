@@ -1,4 +1,4 @@
-# Software-Engineering (An online Compose&Share platform based on Django and Vue)
+# Campus Appointment System
 It is a repository of my homework of software engineering course. Let's go!!!!!!!!
 
 
